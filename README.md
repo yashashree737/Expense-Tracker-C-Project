@@ -5,14 +5,14 @@ It also generates monthly reports and maintains an annual summary using text fil
 
 📌 Features
 
-✔ Tracks expenses across 10 standard categories
-✔ Automatically calculates total expenses & remaining savings
-✔ Performs budget health analysis based on recommended percentages
-✔ Allows users to create and manage multiple saving goals
-✔ Each goal has its own file storing cumulative saved amount
-✔ Generates monthly financial report (with date-based file naming)
-✔ Updates annual report automatically
-✔ Prevents invalid savings (e.g., saving more than remaining salary)
+✔ Tracks expenses across 10 standard categories<br/>
+✔ Automatically calculates total expenses & remaining savings<br/>
+✔ Performs budget health analysis based on recommended percentages<br/>
+✔ Allows users to create and manage multiple saving goals<br/>
+✔ Each goal has its own file storing cumulative saved amount<br/>
+✔ Generates monthly financial report (with date-based file naming)<br/>
+✔ Updates annual report automatically<br/>
+✔ Prevents invalid savings (e.g., saving more than remaining salary)<br/>
 
 📂 Expense Categories
 
@@ -115,13 +115,6 @@ Arrays
 Strings
 
 Time/Date Functions
-
-🎥 Demo Video
-Project demonstration video:
-👉 Add your YouTube or Google Drive video link here
-
-📘 Project Report / Blog
-👉 This README contains the full project explanation.
 
 📜 Conclusion
 The Expense Tracker System successfully helps users monitor expenses, manage savings goals, and maintain year-long financial records.
